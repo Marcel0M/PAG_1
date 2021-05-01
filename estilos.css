@@ -1,0 +1,21 @@
+.titulo{
+    padding: 70px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+li{
+    padding-left: 130px;
+    
+}
+
+.subtitulo1{
+    padding-top: 20px;
+}
+
+.img-gatos{
+    display: inline-block;
+}
